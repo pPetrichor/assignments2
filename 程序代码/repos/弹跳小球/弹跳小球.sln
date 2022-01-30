@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "弹跳小球", "弹跳小球\弹跳小球.vcxproj", "{E58D5740-36ED-4B6E-A774-3A4939E55ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E58D5740-36ED-4B6E-A774-3A4939E55ABD}.Debug|x64.ActiveCfg = Debug|x64
+		{E58D5740-36ED-4B6E-A774-3A4939E55ABD}.Debug|x64.Build.0 = Debug|x64
+		{E58D5740-36ED-4B6E-A774-3A4939E55ABD}.Debug|x86.ActiveCfg = Debug|Win32
+		{E58D5740-36ED-4B6E-A774-3A4939E55ABD}.Debug|x86.Build.0 = Debug|Win32
+		{E58D5740-36ED-4B6E-A774-3A4939E55ABD}.Release|x64.ActiveCfg = Release|x64
+		{E58D5740-36ED-4B6E-A774-3A4939E55ABD}.Release|x64.Build.0 = Release|x64
+		{E58D5740-36ED-4B6E-A774-3A4939E55ABD}.Release|x86.ActiveCfg = Release|Win32
+		{E58D5740-36ED-4B6E-A774-3A4939E55ABD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {225A6B83-753C-429A-8605-519802CDD23B}
+	EndGlobalSection
+EndGlobal

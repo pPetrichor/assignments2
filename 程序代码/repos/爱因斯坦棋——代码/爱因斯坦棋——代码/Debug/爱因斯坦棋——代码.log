@@ -1,0 +1,8 @@
+﻿  ClientSocket.cpp
+  Einstein.cpp
+  main.cpp
+  正在生成代码...
+c:\users\njuwhl2019hp\程序代码\repos\爱因斯坦棋——代码\爱因斯坦棋——代码\einstein.cpp(97): warning C4715: “if_i_win”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\爱因斯坦棋——代码\爱因斯坦棋——代码\einstein.cpp(209): warning C4715: “attack”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\爱因斯坦棋——代码\爱因斯坦棋——代码\einstein.cpp(390): warning C4715: “debug”: 不是所有的控件路径都返回值
+  爱因斯坦棋——代码.vcxproj -> C:\Users\njuwhl2019hp\程序代码\repos\爱因斯坦棋——代码\Debug\爱因斯坦棋——代码.exe

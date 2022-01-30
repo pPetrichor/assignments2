@@ -1,0 +1,5 @@
+4	3
+ID	Father	Mother	Brother	Sister	
+1	Hjsa	Grance	Mike	Monaka	
+2	Fin	Renny	Jerry	Tom	
+3	Kangsh	kite	John	Cindy	

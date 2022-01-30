@@ -1,0 +1,6 @@
+﻿  week4_2.cpp
+c:\users\njuwhl2019hp\程序代码\repos\week4_2\week4_2\week4_2.cpp(972): warning C4715: “DDZPlayer::play”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\week4_2\week4_2\week4_2.cpp(90): warning C4715: “DDZPlayer::judge”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\week4_2\week4_2\week4_2.cpp(108): warning C4715: “DDZPlayer::s_to_n”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\week4_2\week4_2\week4_2.cpp(659): warning C4715: “DDZPlayer::panduan”: 不是所有的控件路径都返回值
+  week4_2.vcxproj -> C:\Users\njuwhl2019hp\程序代码\repos\week4_2\Debug\week4_2.exe

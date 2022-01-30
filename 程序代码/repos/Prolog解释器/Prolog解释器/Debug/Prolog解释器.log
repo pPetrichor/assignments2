@@ -1,0 +1,8 @@
+﻿  Prolog.cpp
+c:\users\njuwhl2019hp\程序代码\repos\prolog解释器\prolog解释器\prolog.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\njuwhl2019hp\程序代码\repos\prolog解释器\prolog解释器\prolog.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\njuwhl2019hp\程序代码\repos\prolog解释器\prolog解释器\prolog.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\njuwhl2019hp\程序代码\repos\prolog解释器\prolog解释器\prolog.cpp(95): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\njuwhl2019hp\程序代码\repos\prolog解释器\prolog解释器\prolog.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\njuwhl2019hp\程序代码\repos\prolog解释器\prolog解释器\prolog.cpp(435): warning C4018: “<”: 有符号/无符号不匹配
+  Prolog解释器.vcxproj -> C:\Users\njuwhl2019hp\程序代码\repos\Prolog解释器\Debug\Prolog解释器.exe

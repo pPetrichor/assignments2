@@ -1,0 +1,30 @@
+Student.txt	Student	0	0	0	0	0
+#
+#
+#
+#
+Student.txt	Student	0	0	0	0	0
+#
+#
+#
+#
+Score.txt	Score	1	1	1	1	1
+#
+#
+#
+#
+Class.txt	class	0	0	0	0	0
+#
+#
+#
+#
+Family.txt	family	0	0	0	0	0
+#
+#
+#
+#
+Run.txt	run	0	0	0	0	0
+#
+#
+#
+#

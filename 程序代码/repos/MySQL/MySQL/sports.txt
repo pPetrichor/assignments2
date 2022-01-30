@@ -1,0 +1,4 @@
+3	2
+ID	name	sport	time	
+1	john	ÀºÇò	5	
+2	cxc	ÓðÃ«Çò	8

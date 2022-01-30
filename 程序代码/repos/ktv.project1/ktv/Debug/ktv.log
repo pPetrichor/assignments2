@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\njuwhl2019hp\程序代码\repos\ktv.project1\ktv\main.cpp(26): warning C4305: “初始化”: 从“int”到“char”截断
+c:\users\njuwhl2019hp\程序代码\repos\ktv.project1\ktv\main.cpp(26): warning C4309: “初始化”: 截断常量值
+c:\users\njuwhl2019hp\程序代码\repos\ktv.project1\ktv\main.cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\njuwhl2019hp\程序代码\repos\ktv.project1\ktv\main.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\njuwhl2019hp\程序代码\repos\ktv.project1\ktv\main.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+  ktv.vcxproj -> C:\Users\njuwhl2019hp\程序代码\repos\ktv.project1\Debug\ktv.exe

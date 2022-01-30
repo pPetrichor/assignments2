@@ -1,0 +1,6 @@
+4	4
+ID	高程	程设	数电	离散
+1	Y	Y	N	Y	
+2	N	Y	N	Y
+3	N	N	Y	Y
+4	N	Y	Y	N		

@@ -1,0 +1,6 @@
+﻿  181860092.cpp
+c:\users\njuwhl2019hp\程序代码\repos\week3_2\week3_2\181860092.cpp(46): warning C4715: “judge”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\week3_2\week3_2\181860092.cpp(64): warning C4715: “s_to_n”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\week3_2\week3_2\181860092.cpp(649): warning C4715: “panduan”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\week3_2\week3_2\181860092.cpp(971): warning C4715: “play”: 不是所有的控件路径都返回值
+  week3_2.vcxproj -> C:\Users\njuwhl2019hp\程序代码\repos\week3_2\Debug\week3_2.exe

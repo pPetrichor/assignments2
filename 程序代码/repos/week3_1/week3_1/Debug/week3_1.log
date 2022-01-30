@@ -1,0 +1,9 @@
+﻿  week3_1.cpp
+c:\users\njuwhl2019hp\程序代码\repos\week3_1\week3_1\week3_1.cpp(556): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+c:\users\njuwhl2019hp\程序代码\repos\week3_1\week3_1\week3_1.cpp(98): warning C4715: “judge”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\week3_1\week3_1\week3_1.cpp(116): warning C4715: “s_to_n”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\week3_1\week3_1\week3_1.cpp(202): warning C4715: “cut”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\week3_1\week3_1\week3_1.cpp(480): warning C4715: “case8_9”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\week3_1\week3_1\week3_1.cpp(531): warning C4715: “panduan”: 不是所有的控件路径都返回值
+c:\users\njuwhl2019hp\程序代码\repos\week3_1\week3_1\week3_1.cpp(575): warning C4715: “case13_14”: 不是所有的控件路径都返回值
+  week3_1.vcxproj -> C:\Users\njuwhl2019hp\程序代码\repos\week3_1\Debug\week3_1.exe

@@ -1,0 +1,5 @@
+﻿  课堂作业二.cpp
+c:\users\njuwhl2019hp\source\repos\课堂作业二\课堂作业二\课堂作业二.cpp(16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\njuwhl2019hp\source\repos\课堂作业二\课堂作业二\课堂作业二.cpp(28): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\njuwhl2019hp\source\repos\课堂作业二\课堂作业二\课堂作业二.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+  课堂作业二.vcxproj -> C:\Users\njuwhl2019hp\source\repos\课堂作业二\Debug\课堂作业二.exe
